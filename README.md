@@ -1,25 +1,27 @@
 
-Ingredients
------------
+# Cookies
 
-125g    butter, softened
+## Ingredients
 
-125g    demerara sugar
-60g     caster sugar
+Amount  |  Ingredient
+--------|------------
+125g    |  butter, softened
+        |
+125g    |  demerara sugar
+60g     |  caster sugar
+        |
+1 egg   |  lightly beaten
+1 tsp   |  vanilla extract
+        |
+50g     |  self-raising flour
+100g    |  brown flour
+75g     |  porridge oats
+        |
+1/2 tsp |  salt
+200g    |  chocolate chips
 
-1 egg   lightly beaten
-1 tsp   vanilla extract
 
-50g     self-raising flour
-100g    brown flour
-75g     porridge oats
-
-1/2 tsp salt
-200g    chocolate chips
-
-
-Instructions
-------------
+## Instructions
 
 1. Preheat the oven to 180°C, gas mark 4
 
