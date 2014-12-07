@@ -10,14 +10,14 @@ Amount     |  Ingredient
 --------   |------------
 125g       |  butter, softened
            |
-33g        |  dark brown soft sugar
-66g        |  light brown demerara sugar
+50g        |  dark brown soft sugar
+125g       |  light brown demerara sugar
            |
 1 egg      |  lightly beaten
 1 1/2 tsp  |  vanilla extract
            |
-175g       |  self-raising flour
-75g        |  porridge oats
+100g       |  self-raising flour
+125g       |  porridge oats
 100g       |  brown flour
            |
 1 tsp      |  salt
@@ -36,7 +36,8 @@ Creates 7 large cookies.
 
 3. Sift in the flour and salt, then the chocolate chips.
 
-4. Roll into lemon sized balls.
+4. Roll into lemon sized balls and then flatten out to about 2.5cm thick. The cookies don't melt
+   down much during baking due to the flour content.
 
 5. Place on ungreased baking paper. Bake for 8 mins.
 
@@ -47,12 +48,9 @@ Creates 7 large cookies.
 
 # Results
 
-- Way too floury. Starting to taste a little bit like a scone and sitting quite heavily after
-  eating. 
+- A decent balance of flour, sugar and oats. Generally a really nice cookie.
 
-- Additionally the increase in volume without changing the sugar content makes it even less sweet
-  and we're now down to dangerously low sugar levels.
-
-- Finally, the increase in volume without more oats leaves it is a much less oaty experience which
-  seems regretable upon tasting.
+- Keen to experiment with a more flour based cookie as I think the oats are a little heavy if you're
+  not used to them. I am aware that they might not be broken down much by the baking and uncooked
+  oats are quite tough on the digestive system!
 
