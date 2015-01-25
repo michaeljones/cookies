@@ -8,12 +8,12 @@ verdict at the bottom before continuing.
 
 Amount     |  Ingredient
 --------   |------------
-125g       |  butter, softened
+80g        |  butter, softened
            |
 50g        |  dark brown soft sugar
 125g       |  light brown demerara sugar
            |
-1 egg      |  lightly beaten
+2 eggs     |  lightly beaten
 1 1/2 tsp  |  vanilla extract
            |
 100g       |  self-raising flour
@@ -23,10 +23,7 @@ Amount     |  Ingredient
 1 tsp      |  salt
 200g       |  chocolate chips (55% cocoa)
 
-Experimenting with more self raising flour in the hope of getting a better shape and to restore the
-volume we've lost by reducing the sugar by so much.
-
-Creates 7 large cookies.
+Creates ~8 large cookies or 16 small ones.
 
 ## Instructions
 
@@ -36,7 +33,7 @@ Creates 7 large cookies.
 
 3. Sift in the flour and salt, then the chocolate chips.
 
-4. Roll into lemon sized balls and then flatten out to about 2.5cm thick. The cookies don't melt
+4. Roll into lemon sized balls and then flatten out to about 2cm thick. The cookies don't melt
    down much during baking due to the flour content.
 
 5. Place on ungreased baking paper. Bake for 8 mins.
@@ -48,9 +45,6 @@ Creates 7 large cookies.
 
 # Results
 
-- A decent balance of flour, sugar and oats. Generally a really nice cookie.
+- The reduced butter & extra egg helps make the final result a little lighter which helps.
 
-- Keen to experiment with a more flour based cookie as I think the oats are a little heavy if you're
-  not used to them. I am aware that they might not be broken down much by the baking and uncooked
-  oats are quite tough on the digestive system!
 
