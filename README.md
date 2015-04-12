@@ -4,6 +4,11 @@
 Tracking of investigations into cookie recipes. Some versions are not that succesful, read the
 verdict at the bottom before continuing.
 
+## Variations
+
+ - [Standard](https://github.com/michaeljones/cookies/tree/master)
+ - [Coconut](https://github.com/michaeljones/cookies/tree/coconut)
+
 ## Ingredients
 
 Amount     |  Ingredient
@@ -46,5 +51,3 @@ Creates ~8 large cookies or 16 small ones.
 # Results
 
 - The reduced butter & extra egg helps make the final result a little lighter which helps.
-
-
