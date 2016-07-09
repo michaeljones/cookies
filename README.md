@@ -25,8 +25,10 @@ Amount     |  Ingredient
 125g       |  porridge oats
 100g       |  brown flour
            |
+60g        |  cocoa powder
+           |
 1 tsp      |  salt
-200g       |  chocolate chips (55% cocoa)
+200g       |  white chocolate chips
 
 Creates ~8 large cookies or 16 small ones.
 
