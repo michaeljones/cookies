@@ -21,9 +21,9 @@ Amount     |  Ingredient
 2 eggs     |  lightly beaten
 1 1/2 tsp  |  vanilla extract
            |
-100g       |  self-raising flour
+70g        |  self-raising flour
 125g       |  porridge oats
-100g       |  brown flour
+70g        |  brown flour
            |
 60g        |  cocoa powder
            |
@@ -48,8 +48,3 @@ Creates ~8 large cookies or 16 small ones.
 6. Take out of the oven and leave to harden for a minute before transferring to
    a wire cooling rack. These are great warm, and they also store well, if they
    don't all get eaten straight away!
-
-
-# Results
-
-- The reduced butter & extra egg helps make the final result a little lighter which helps.
