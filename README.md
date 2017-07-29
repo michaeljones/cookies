@@ -11,23 +11,23 @@ verdict at the bottom before continuing.
 
 ## Ingredients
 
-Amount     |  Ingredient
---------   |------------
-80g        |  butter, softened
-           |
-50g        |  dark brown soft sugar
-125g       |  light brown demerara sugar
-           |
-2 eggs     |  lightly beaten
-1 1/2 tsp  |  vanilla extract
-           |
-75g        |  self-raising flour
-75g        |  porridge oats
-75g        |  brown flour
-100g       |  dessicated coconut
-           |
-1 tsp      |  salt
-200g       |  chocolate chips (55% cocoa)
+| Amount     | Ingredient                  |
+| --------   | ------------                |
+| 80g        | butter, softened            |
+|            |                             |
+| 50g        | dark brown soft sugar       |
+| 125g       | light brown demerara sugar  |
+|            |                             |
+| 2 eggs     | lightly beaten              |
+| 1 1/2 tsp  | vanilla extract             |
+|            |                             |
+| 75g        | self-raising flour          |
+| 75g        | porridge oats               |
+| 75g        | brown flour                 |
+| 100g       | dessicated coconut          |
+|            |                             |
+| 1 tsp      | salt                        |
+| 200g       | chocolate chips (55% cocoa) |
 
 Creates ~8 large cookies or 16 small ones.
 
