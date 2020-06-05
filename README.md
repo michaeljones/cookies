@@ -21,15 +21,17 @@ verdict at the bottom before continuing.
 | 2 eggs     |  lightly beaten              |
 | 1 1/2 tsp  |  vanilla extract             |
 |            |                              |
-| 100g       |  self-raising flour          |
+| 100g       |  plain flour                 |
 | 125g       |  porridge oats               |
-| 100g       |  brown flour                 |
+| 60g        |  brown flour                 |
+| 40g        |  cocoa powder                |
 |            |                              |
 | 1 tsp      |  salt                        |
-| 200g       |  chocolate chips (55% cocoa) |
 
 
-Creates ~8 large cookies or 16 small ones.
+Creates 12 "cookies". This is is an alternative recipe that doesn't include self-raising flour
+(because I didn't have any) and so the cookies don't really 'settle' they just baked as little
+mounds instead.
 
 ## Instructions
 
@@ -37,10 +39,9 @@ Creates ~8 large cookies or 16 small ones.
 
 2. Cream butter and sugars, once creamed, combine in the egg and vanilla.
 
-3. Sift in the flour and salt, then the chocolate chips.
+3. Sift in the flour and salt, then the oats & cocoa powder.
 
-4. Roll into lemon sized balls and then flatten out to about 2cm thick. The cookies don't melt
-   down much during baking due to the flour content.
+4. Roll into golf-ball sized balls and place on the baking paper.
 
 5. Place on ungreased baking paper. Bake for 8 mins.
 
@@ -51,4 +52,6 @@ Creates ~8 large cookies or 16 small ones.
 
 # Results
 
-- The reduced butter & extra egg helps make the final result a little lighter which helps.
+- As noted they stay in little mounds.
+- They aren't that sweet in comparison to some. 
+- Still very chocolate-y.
